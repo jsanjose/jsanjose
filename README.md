@@ -1,6 +1,6 @@
 Soy **JSJ** (*@jsanjose* aquí en Github).
 
-Te invito a que visites mis repositorios. Llevo los últimos casi 40 años programando. Primero en máquinas de 8 bits en los 80, ahora en sistemas actuales.
+Te invito a que visites [mis repositorios](https://github.com/jsanjose?tab=repositories). Llevo los últimos casi 40 años programando. Primero en máquinas de 8 bits en los 80, ahora en sistemas actuales.
 
 Mis intereses son múltiples y variados, desde BASIC a Java, desde ensamblador a C++.
 
